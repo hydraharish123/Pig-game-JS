@@ -1,3 +1,5 @@
+[Visit the Pig Game](https://hydraharish123.github.io/Pig-game-JS/)
+
 # Game Rules
 
 Welcome to our game! Here's how to play:
