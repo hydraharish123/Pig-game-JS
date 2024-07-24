@@ -27,4 +27,4 @@ Welcome to our game! Here's how to play:
 
 Enjoy playing!
 
-Leant from Jonas Schmedtmann
+
