@@ -1,6 +1,5 @@
 [Visit the Pig Game](https://hydraharish123.github.io/Pig-game-JS/)
 
-Leant from Jonas Schmedtmann
 
 # Game Rules
 
@@ -27,3 +26,5 @@ Welcome to our game! Here's how to play:
 - The first player to reach 100 points in their **GLOBAL score** wins the game.
 
 Enjoy playing!
+
+Leant from Jonas Schmedtmann
